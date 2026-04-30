@@ -15,7 +15,7 @@ website:
         text: Papers
         
       - href: socialmedia.qmd
-        text: Social Media
+        text: Public History Media
         
       - href: cv.qmd
         text: CV

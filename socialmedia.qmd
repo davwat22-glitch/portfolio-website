@@ -1,5 +1,77 @@
 ---
-title: "socialmedia"
+title: "Oublic History Media"
 format: html
 ---
 
+---
+title: "Public History Media"
+---
+
+These videos represent my work in public history — translating academic 
+research into accessible content for broader audiences. Each video draws 
+on primary sources and scholarly literature to tell stories of Indigenous 
+resistance in Virginia that are often left out of mainstream historical narratives.
+
+---
+
+## Bacon's Rebellion, Cockacoeske's Brilliance, and Howard Zinn
+
+This video challenges Howard Zinn's telling of Bacon's Rebellion in *A People's 
+History of the United States*. While Zinn frames the rebellion as a moment of 
+interracial class solidarity, he omits the parallel story of Cockacoeske, 
+the Pamunkey queen who leveraged the same political moment to secure the 
+Treaty of Middle Plantation — a document that would serve as the foundation 
+for state and federal recognition of Virginia's Indigenous peoples centuries later.
+
+<iframe width="100%" height="415" 
+src="https://www.youtube.com/embed/WZbsHdj6E08" 
+title="Bacon's Rebellion, Cockacoeske's Brilliance and Howard Zinn"
+allowfullscreen></iframe>
+
+---
+
+## The War on Eugenics: Indigenous Draft Resistance in World War II
+
+Virginia's 1924 Racial Integrity Act reclassified Indigenous people as Black, 
+stripping them of their identity through the pseudoscience of eugenics. When 
+World War II began, Native men were assigned to Black units despite having 
+served in white units in WWI. This video traces the concerted resistance 
+effort — fought in courtrooms and in public opinion — that ultimately won.
+
+<iframe width="100%" height="415" 
+src="https://www.youtube.com/embed/YY_M5bAe9zs" 
+title="The War on Eugenics"
+allowfullscreen></iframe>
+
+---
+
+## Monacan School Integration in Amherst County
+
+While events like the Little Rock Nine are well known, Virginia's Monacan 
+people fought their own campaign to integrate historically white schools in 
+Amherst County. This video tells that story — a local but deeply significant 
+chapter in both Indigenous history and the broader history of civil rights 
+in America.
+
+<iframe width="100%" height="415" 
+src="https://www.youtube.com/embed/Y5IXjY5WGs8" 
+title="Monacan School Integration"
+allowfullscreen></iframe>
+
+---
+
+## The Long Road to Recognition of the Pamunkey
+
+This video connects the threads of resistance across these stories — from 
+Cockacoeske's treaty to the draft resistance to school integration — tracing 
+how each struggle contributed to the modern fight for federal recognition 
+of Virginia's Indigenous peoples.
+
+<iframe width="100%" height="415" 
+src="https://www.youtube.com/embed/tj43PQVAfHI" 
+title="The Long Road to Recognition of the Pamunkey"
+allowfullscreen></iframe>
+
+---
+
+*These videos are also available on my [YouTube channel](https://www.youtube.com/@david_t_watkeys){target="_blank"}.*

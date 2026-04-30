@@ -1,5 +1,5 @@
 ---
-title: "papers"
+title: "Papers"
 format: html
 ---
 
@@ -21,6 +21,8 @@ tools that Peyotist communities have used to survive and adapt across centuries
 of colonization.
 
 [Read Paper](papers/journal_article_the_long_peyote_road_website.pdf){target="_blank"}
+
+#I got it to work finally!!!!
 
 ---
 
@@ -50,4 +52,4 @@ not just a bureaucratic designation but an act of rightful historical correction
 
 [Read Paper](papers/wrongful_erasure_and_rightful_recognition_website.pdf){target="_blank"}
 
-
+ #it works! committing!
