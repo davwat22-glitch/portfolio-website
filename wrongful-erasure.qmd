@@ -1,6 +1,17 @@
 ---
-title: "papers"
+title: "wrongful-erasure"
 format: html
+---
+
+---
+title: "Wrongful Erasure and Rightful Recognition"
+subtitle: "Native Peoples of Virginia and the Struggle for Federally Recognized Sovereignty in the Twenty-First Century"
+author: "David T. Watkeys"
+date: "2023"
+---
+
+---
+title: "Papers"
 ---
 
 This page collects my scholarly writing from undergraduate through my Masters 
@@ -49,5 +60,6 @@ twenty-first century, the paper argues that federal recognition represents
 not just a bureaucratic designation but an act of rightful historical correction.
 
 [Read Paper](papers/wrongful_erasure_and_rightful_recognition_website.pdf){target="_blank"}
+
 
 

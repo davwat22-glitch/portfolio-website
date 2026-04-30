@@ -1,11 +1,37 @@
 ---
 title: "portfolio_website"
 ---
+---
+title: "David T. Watkeys"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope #bootstrap icons is dope install.packages("bsicons") 
+                      #library(bsicons)
+                      #bs_icon_names()
+                      #bsicons::bs_icon("mortarboard") see them 
+      text: Email
+      href: mailto:davwat22@vt.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/david-watkeys
+    - icon: github
+      text: GitHub
+      href: https://github.com/davwat22-glitch
+---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+David T. Watkeys is a Masters student in the Department of History at Virginia Tech.
+This site serves as a digital log of research, projects, and academic
+work completed during my time at VT.
 
-```{r}
-1 + 1
-```
+## Research Interests
+
+My work centers on Indigenous histories of what is now the United States,
+the history of the War on Drugs, the cultural and historical value of
+entheogenic plants, and histories of resistance. I also boast award-winning
+research in Indigenous, legal and environmental history under the tutelage of Eddie Polanco and Ed Gitre.
+
+This website was made with extensive assistance from Dr. Jessie Sadler and Madison Smith. I am eternally grateful to all of you.
