@@ -1,91 +1,170 @@
 ---
-title: "cv"
+title: "Curriculum Vitae"
 format: html
 ---
 
-                             DAVID T. WATKEYS
-Graduate Student in History  |  Virginia Tech
-Roanoke, VA  •  (419) 799-1637  •  davwat22@vt.edu  •  watkeyswordpress.vt.domains/LandingZone/
+## David T. Watkeys
 
-Graduate student in History at Virginia Tech focused on Indigenous histories, para/post-colonial history, legal systems, and the cultural and environmental narratives of the United States in the twentieth century. Research interests center on the historical construction of law, Indigenous sovereignty, decolonization, war and veterans' experiences, and public memory. Experienced in archival research, database construction, and scholarly editing, with a commitment to ethical interdisciplinary historical inquiry and public engagement. U.S. Navy veteran with honorable discharge.
+Graduate Student in History | Virginia Tech
 
-                                EDUCATION
+Roanoke, VA | davwat22@vt.edu
 
-Master of Arts in History	Expected 2026
-Virginia Tech  |  Blacksburg, VA
-GPA: 3.91  |  Funded Fellowship Position  |  In Progress
-Bachelor of Arts in History	2024
-Virginia Tech  |  Blacksburg, VA
-GPA: 3.787  |  Magna Cum Laude
-Associate of Science	2022
-Virginia Western Community College  |  Roanoke, VA
-GPA: 3.756  |  Magna Cum Laude
-RESEARCH INTERESTS
+---
 
-                        Education & Public History  
+Graduate student in History at Virginia Tech focused on Indigenous histories, 
+para/post-colonial history, legal systems, and the cultural and environmental 
+narratives of the United States in the twentieth century. Research interests 
+center on the historical construction of law, Indigenous sovereignty, 
+decolonization, war and veterans' experiences, and public memory. Experienced 
+in archival research, database construction, and scholarly editing, with a 
+commitment to ethical interdisciplinary historical inquiry and public engagement. 
+U.S. Navy veteran with honorable discharge.
 
-• Resistance History  •  Indigenous History of the United States  • History of Virginia  •   Legal and Constitutional History  •  Twentieth-Century U.S. History  •  Environmental History  •  Nuclear History  •  Veterans' Histories  •  The War on Drugs  •  Public History and Digital Humanities  •  Decolonization and Post/Para-Colonial Studies  •  Public Memory and Commemoration
+---
 
-                        PROFESSIONAL EXPERIENCE
+## Education
 
-Research & Exhibit Development Consultant| Salem Museum, Salem, VA |                        Jun-Aug 2025
-•	Collaborated with archaeologists and museum professionals to research and develop a 1,500 sq. ft. exhibit interpreting Tutelo and Monacan cultural artifacts recovered from a 1990s archaeological excavation
-•	Co-developed a parallel exhibit presenting a comprehensive timeline of local Indigenous history
-•	Applied historical research methods in a public-facing museum context, bridging academic scholarship and community engagement
-Research Assistant,  Virginia Tech Library, Blacksburg, VA	2024–Present
-•	Collaborated with Professor Bruce Pencek to design and build a primary-source database comprising approximately 250 datafied sources to support faculty and student historical research
-•	Structured sources for keyword searchability, facilitating interdisciplinary access across the Virginia Tech research community
-Senior Graduate Editorial Assistant,  Virginia Tech Undergraduate Historical Review,  Blacksburg, VA	2024–Present
-•	Edited and prepared three articles for publication in a peer-reviewed undergraduate history journal, with four additional articles in production
-•	Served as primary liaison between faculty supervisor Professor Jason Higgins, the undergraduate editorial team, and article authors throughout the publication process
-•	Supervised, mentored, and recruited a team of eight undergraduate and one graduate editorial assistant
-Administrative Assistant to Two-Star Admiral,  U.S. Navy, NAVELSG,  Williamsburg, VA	2011–2015
-•	Provided administrative support to flag-level naval command; managed correspondence, scheduling, and operational documentation
-•	Awarded Junior Sailor of the Year (2012)
-•	Honorably discharged; eligible for federal employment veterans' preference
+**Master of Arts in History** — Expected 2026
+Virginia Tech | Blacksburg, VA
+GPA: 3.91 | Funded Fellowship Position | In Progress
 
-                        TEACHING EXPERIENCE
+**Bachelor of Arts in History** — 2024
+Virginia Tech | Blacksburg, VA
+GPA: 3.787 | Magna Cum Laude
 
-Editorial Pedagogy & Student Mentorship,  Virginia Tech Undergraduate Historical Review,  Blacksburg, VA	2024–Present
-•	Directed the scholarly development of eight undergraduate and one graduate student editor in historical research methods, peer review standards, and academic writing
-•	Developed assessment materials based on course content and graded examinations; specializes in evaluation of written historical argument and analytical writing
-Teaching Intern,  Woodrow Wilson Middle School,  Roanoke, VA                                                       Jan-Apr 2024
-•	Completed a six-month classroom teaching internship in secondary history education
+**Associate of Science** — 2022
+Virginia Western Community College | Roanoke, VA
+GPA: 3.756 | Magna Cum Laude
 
+---
 
-                   CONFERENCE & PROFESSIONAL SERVICE
+## Research Interests
 
-Lead Coordinator/President,  Bryan Bertoti Innovative Perspectives in History Conference,  Virginia Tech	2026
-•	Serving as lead organizer for the annual graduate history conference at Virginia Tech
-Conference Staff,  Bryan Bertoti Innovative Perspectives in History Conference,  Virginia Tech	2025
-•	Contributed to behind-the-scenes planning, logistics, and execution of the annual graduate history conference
-                      
-                   DIGITAL PROJECTS & PUBLICATIONS
+Resistance History · Indigenous History of the United States · History of 
+Virginia · Legal and Constitutional History · Twentieth-Century U.S. History · 
+Environmental History · Nuclear History · Veterans' Histories · The War on Drugs · 
+Public History and Digital Humanities · Decolonization and Post/Para-Colonial 
+Studies · Public Memory and Commemoration
 
-Cold War Collateral Damage: A Navajo Chronicle  (Self-Published Digital History Site, 2024)
-•	Developed a WordPress-based digital history site as an undergraduate independent study under Dr. Ed Gitre (Virginia Tech)
-•	Site documents and interprets Navajo histories of displacement and uranium contamination during the Cold War era using primary sources and interpretive narratives
-watkeyswordpress.vt.domains/LandingZone/
+---
 
-                         SKILLS & LANGUAGES
+## Professional Experience
 
-Technical Skills:  R (in progress)  •  WordPress  •  ADA-compliant PDF production (PREP software)  •  Primary-source database construction and datafication
-Languages:  English (native)  •  Spanish (reading proficiency)
+**Research & Exhibit Development Consultant**
+Salem Museum, Salem, VA | Jun–Aug 2025
 
-                         HONORS & AWARDS
+- Collaborated with archaeologists and museum professionals to research and 
+develop a 1,500 sq. ft. exhibit interpreting Tutelo and Monacan cultural 
+artifacts recovered from a 1990s archaeological excavation
+- Co-developed a parallel exhibit presenting a comprehensive timeline of 
+local Indigenous history
+- Applied historical research methods in a public-facing museum context, 
+bridging academic scholarship and community engagement
 
-•	Funded Fellowship Position, Virginia Tech M.A. in History Program (2024–2026)
-•	Gallagher Award, Virginia Tech Department of History (2023)
-•	Curtis Award, Virginia Tech Department of History (2023)
-•	Environmental History Scholarship, Virginia Tech (2023)
-•	Graduated Magna Cum Laude, Virginia Tech (2024)
-•	Graduated Magna Cum Laude, Virginia Western Community College (2022)
-•	Tau Sigma Honor Society Member
-•	Junior Sailor of the Year, U.S. Navy (2012)
+**Research Assistant**
+Virginia Tech Library, Blacksburg, VA | 2024–Present
 
-                       <!-- MILITARY SERVICE -->
+- Collaborated with Professor Bruce Pencek to design and build a primary-source 
+database comprising approximately 250 datafied sources to support faculty and 
+student historical research
+- Structured sources for keyword searchability, facilitating interdisciplinary 
+access across the Virginia Tech research community
 
-Petty Officer / Administrative Assistant,  United States Navy (Active Duty)	2011–2015
-•	Assigned as Administrative Assistant to Two-Star Admiral Command (NAVELSG, Williamsburg, VA)
-•	Received Junior Sailor of the Year award (2012)
-•	Honorably discharged; eligible for federal veterans' employment preference under VEOA
+**Senior Graduate Editorial Assistant**
+Virginia Tech Undergraduate Historical Review, Blacksburg, VA | 2024–Present
+
+- Edited and prepared three articles for publication in a peer-reviewed 
+undergraduate history journal, with four additional articles in production
+- Served as primary liaison between faculty supervisor Professor Jason Higgins, 
+the undergraduate editorial team, and article authors
+- Supervised, mentored, and recruited a team of eight undergraduate and one 
+graduate editorial assistant
+
+**Administrative Assistant to Two-Star Admiral**
+U.S. Navy, NAVELSG, Williamsburg, VA | 2011–2015
+
+- Provided administrative support to flag-level naval command; managed 
+correspondence, scheduling, and operational documentation
+- Awarded Junior Sailor of the Year (2012)
+- Honorably discharged; eligible for federal employment veterans' preference
+
+---
+
+## Teaching Experience
+
+**Editorial Pedagogy & Student Mentorship**
+Virginia Tech Undergraduate Historical Review, Blacksburg, VA | 2024–Present
+
+- Directed the scholarly development of eight undergraduate and one graduate 
+student editor in historical research methods, peer review standards, and 
+academic writing
+- Developed assessment materials and graded examinations; specializes in 
+evaluation of written historical argument and analytical writing
+
+**Teaching Intern**
+Woodrow Wilson Middle School, Roanoke, VA | Jan–Apr 2024
+
+- Completed a six-month classroom teaching internship in secondary history education
+
+---
+
+## Conference & Professional Service
+
+**Lead Coordinator/President**
+Bryan Bertoti Innovative Perspectives in History Conference, Virginia Tech | 2026
+
+- Serving as lead organizer for the annual graduate history conference at Virginia Tech
+
+**Conference Staff**
+Bryan Bertoti Innovative Perspectives in History Conference, Virginia Tech | 2025
+
+- Contributed to behind-the-scenes planning, logistics, and execution of the 
+annual graduate history conference
+
+---
+
+## Digital Projects & Publications
+
+**Cold War Collateral Damage: A Navajo Chronicle** (2024)
+Self-Published Digital History Site
+
+- Developed a WordPress-based digital history site as an undergraduate 
+independent study under Dr. Ed Gitre (Virginia Tech)
+- Documents and interprets Navajo histories of displacement and uranium 
+contamination during the Cold War era using primary sources and interpretive narratives
+
+[View Project](https://watkeyswordpress.vt.domains/LandingZone/){target="_blank"}
+
+---
+
+## Skills & Languages
+
+**Technical:** R (in progress) · WordPress · ADA-compliant PDF production 
+(PREP software) · Primary-source database construction and datafication
+
+**Languages:** English (native) · Spanish (reading proficiency)
+
+---
+
+## Honors & Awards
+
+- Funded Fellowship Position, Virginia Tech M.A. in History Program (2024–2026)
+- Gallagher Award, Virginia Tech Department of History (2023) — $10,000
+- Curtis Award, Virginia Tech Department of History (2023)
+- Environmental History Scholarship, Virginia Tech (2023)
+- Graduated Magna Cum Laude, Virginia Tech (2024)
+- Graduated Magna Cum Laude, Virginia Western Community College (2022)
+- Tau Sigma Honor Society Member
+- Junior Sailor of the Year, U.S. Navy (2012)
+
+---
+
+## Military Service
+
+**Petty Officer / Administrative Assistant**
+United States Navy (Active Duty) | 2011–2015
+
+- Assigned as Administrative Assistant to Two-Star Admiral Command 
+(NAVELSG, Williamsburg, VA)
+- Received Junior Sailor of the Year award (2012)
+- Honorably discharged; eligible for federal veterans' employment preference under VEOA
