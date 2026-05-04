@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Roanoke, VA | davwat22@vt.edu\n\nHistory graduate student and U.S. Navy veteran specializing in Indigenous sovereignty, the history of the War on Drugs, legal history, and twentieth-century U.S. environmental and cultural history. Experienced in leadership, consultation, archival research, scholarly editing, database construction, accessibility software, and developing public-facing historical communication."
+  },
+  {
+    "objectID": "resume.html#david-t.-watkeys",
+    "href": "resume.html#david-t.-watkeys",
+    "title": "Resume",
+    "section": "",
+    "text": "Roanoke, VA | davwat22@vt.edu\n\nHistory graduate student and U.S. Navy veteran specializing in Indigenous sovereignty, the history of the War on Drugs, legal history, and twentieth-century U.S. environmental and cultural history. Experienced in leadership, consultation, archival research, scholarly editing, database construction, accessibility software, and developing public-facing historical communication."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nMaster of Arts in History — Expected May 2026 Virginia Tech | Blacksburg, VA GPA: 3.91 | Funded Fellowship | In Progress\nBachelor of Arts in History — 2024 Virginia Tech | Blacksburg, VA GPA: 3.787 | Magna Cum Laude\nAssociate of Science — 2022 Virginia Western Community College | Roanoke, VA GPA: 3.756 | Magna Cum Laude"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nResearch & Exhibit Development Consultant Salem Museum, Salem, VA | Jun–Aug 2025\n\nCollaborated with archaeologists and museum staff to research and develop a 1,500 sq. ft. physical exhibit documenting Tutelo and Monacan cultural artifacts recovered from a 1990s excavation of the Moyer softball fields\nContributed to a parallel exhibit presenting a timeline of Indigenous history in the Roanoke Valley region\n\nResearch Assistant Virginia Tech Library, Blacksburg, VA | 2024–Present\n\nBuilt a searchable primary-source database of approximately 250 datafied sources to support faculty and student research at Virginia Tech, in collaboration with Professor Bruce Pencek\n\nGraduate Editor Virginia Tech Undergraduate Historical Review | 2024–Present\n\nEdited and shepherded five articles through peer-reviewed undergraduate journal publication, with four more in production\nRecruited and led a team of eight undergraduate and one graduate editorial assistant"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "This page collects my scholarly writing from undergraduate through my Masters program at Virginia Tech. My work spans Indigenous history, legal history, and digital history — with new work produced every year since 2023."
+  },
+  {
+    "objectID": "papers.html#the-long-peyote-road-2025-2026",
+    "href": "papers.html#the-long-peyote-road-2025-2026",
+    "title": "Papers",
+    "section": "The Long Peyote Road (2025-2026)",
+    "text": "The Long Peyote Road (2025-2026)\nMasters Journal Article — Virginia Tech Department of History\nMy Masters journal article traces the six-thousand-year history of Peyote religions among Indigenous peoples of North America, examining the tension between colonial suppression and Indigenous resistance. The article develops the concept of a “repertoire of resistance” — a set of strategies and tools that Peyotist communities have used to survive and adapt across centuries of colonization.\nRead Paper"
+  },
+  {
+    "objectID": "papers.html#cold-war-collateral-damage-a-navajo-chronicle-2024",
+    "href": "papers.html#cold-war-collateral-damage-a-navajo-chronicle-2024",
+    "title": "Papers",
+    "section": "Cold War Collateral Damage: A Navajo Chronicle (2024)",
+    "text": "Cold War Collateral Damage: A Navajo Chronicle (2024)\nUndergraduate Digital History Project — Virginia Tech Department of History\nA digital history project examining the impact of Cold War policy on Navajo communities, combining prose, photography, and primary source links. Full migration to this site in progress.\nView Original Site"
+  },
+  {
+    "objectID": "papers.html#wrongful-erasure-and-rightful-recognition-2023",
+    "href": "papers.html#wrongful-erasure-and-rightful-recognition-2023",
+    "title": "Papers",
+    "section": "Wrongful Erasure and Rightful Recognition (2023)",
+    "text": "Wrongful Erasure and Rightful Recognition (2023)\nUndergraduate Research Paper — Virginia Tech Department of History\nWinner of the 2023 Gallagher History Prize ($10,000)\nThis paper examines the long struggle of Virginia’s Native peoples for federal recognition — systematically denied through legal mechanisms designed to erase Indigenous identity. Tracing the political and legal battles of the twenty-first century, the paper argues that federal recognition represents not just a bureaucratic designation but an act of rightful historical correction.\nRead Paper"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "data",
+    "section": "",
+    "text": "The following visualizations draw on U.S. Census Bureau data to map federally recognized Indigenous nations across the United States. This data is directly relevant to my research on Indigenous sovereignty and the ongoing struggle for federal recognition. I don’t want to give the impression that this is the totality of Indigenous land, this is only the top 50 nations by landmass. The intent was to show mapping from Digital History Methods, and to invite people to think about their own proximity to Indigenous people, who are often made to feel far away, and long ago. This map shows that there are Indigenous people dispersed all over the United States. and this is just the sample of the top 50 by sq mileage. Note the void of Ohio Tennessee, Kentucky, Pennsylvania etc. I do not know the whole story of how. But it is notable that these states have no federally recognized nations. I wonder if there is potential to advocate for recognition of groups within those states, although removal in the 19th century seems likely.\nData source: U.S. Census Bureau via the tigris R package."
+  },
+  {
+    "objectID": "data.html#federally-recognized-indigenous-nations",
+    "href": "data.html#federally-recognized-indigenous-nations",
+    "title": "data",
+    "section": "",
+    "text": "The following visualizations draw on U.S. Census Bureau data to map federally recognized Indigenous nations across the United States. This data is directly relevant to my research on Indigenous sovereignty and the ongoing struggle for federal recognition. I don’t want to give the impression that this is the totality of Indigenous land, this is only the top 50 nations by landmass. The intent was to show mapping from Digital History Methods, and to invite people to think about their own proximity to Indigenous people, who are often made to feel far away, and long ago. This map shows that there are Indigenous people dispersed all over the United States. and this is just the sample of the top 50 by sq mileage. Note the void of Ohio Tennessee, Kentucky, Pennsylvania etc. I do not know the whole story of how. But it is notable that these states have no federally recognized nations. I wonder if there is potential to advocate for recognition of groups within those states, although removal in the 19th century seems likely.\nData source: U.S. Census Bureau via the tigris R package."
+  },
+  {
+    "objectID": "data.html#interactive-map-of-indigenous-nation-lands",
+    "href": "data.html#interactive-map-of-indigenous-nation-lands",
+    "title": "data",
+    "section": "Interactive Map of Indigenous Nation Lands",
+    "text": "Interactive Map of Indigenous Nation Lands"
+  },
+  {
+    "objectID": "data.html#fifty-largest-indigenous-nation-land-areas",
+    "href": "data.html#fifty-largest-indigenous-nation-land-areas",
+    "title": "data",
+    "section": "Fifty Largest Indigenous Nation Land Areas",
+    "text": "Fifty Largest Indigenous Nation Land Areas"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Graduate Student in History | Virginia Tech\nRoanoke, VA | davwat22@vt.edu\n\nGraduate student in History at Virginia Tech focused on Indigenous histories, para/post-colonial history, legal systems, and the cultural and environmental narratives of the United States in the twentieth century. Research interests center on the historical construction of law, Indigenous sovereignty, decolonization, war and veterans’ experiences, and public memory. Experienced in archival research, database construction, and scholarly editing, with a commitment to ethical interdisciplinary historical inquiry and public engagement. U.S. Navy veteran with honorable discharge."
+  },
+  {
+    "objectID": "cv.html#david-t.-watkeys",
+    "href": "cv.html#david-t.-watkeys",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Graduate Student in History | Virginia Tech\nRoanoke, VA | davwat22@vt.edu\n\nGraduate student in History at Virginia Tech focused on Indigenous histories, para/post-colonial history, legal systems, and the cultural and environmental narratives of the United States in the twentieth century. Research interests center on the historical construction of law, Indigenous sovereignty, decolonization, war and veterans’ experiences, and public memory. Experienced in archival research, database construction, and scholarly editing, with a commitment to ethical interdisciplinary historical inquiry and public engagement. U.S. Navy veteran with honorable discharge."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nMaster of Arts in History — Expected 2026 Virginia Tech | Blacksburg, VA GPA: 3.91 | Funded Fellowship Position | In Progress\nBachelor of Arts in History — 2024 Virginia Tech | Blacksburg, VA GPA: 3.787 | Magna Cum Laude\nAssociate of Science — 2022 Virginia Western Community College | Roanoke, VA GPA: 3.756 | Magna Cum Laude"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research Interests",
+    "text": "Research Interests\nResistance History · Indigenous History of the United States · History of Virginia · Legal and Constitutional History · Twentieth-Century U.S. History · Environmental History · Nuclear History · Veterans’ Histories · The War on Drugs · Public History and Digital Humanities · Decolonization and Post/Para-Colonial Studies · Public Memory and Commemoration"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nResearch & Exhibit Development Consultant Salem Museum, Salem, VA | Jun–Aug 2025\n\nCollaborated with archaeologists and museum professionals to research and develop a 1,500 sq. ft. exhibit interpreting Tutelo and Monacan cultural artifacts recovered from a 1990s archaeological excavation\nCo-developed a parallel exhibit presenting a comprehensive timeline of local Indigenous history\nApplied historical research methods in a public-facing museum context, bridging academic scholarship and community engagement\n\nResearch Assistant Virginia Tech Library, Blacksburg, VA | 2024–Present\n\nCollaborated with Professor Bruce Pencek to design and build a primary-source database comprising approximately 250 datafied sources to support faculty and student historical research\nStructured sources for keyword searchability, facilitating interdisciplinary access across the Virginia Tech research community\n\nSenior Graduate Editorial Assistant Virginia Tech Undergraduate Historical Review, Blacksburg, VA | 2024–Present\n\nEdited and prepared three articles for publication in a peer-reviewed undergraduate history journal, with four additional articles in production\nServed as primary liaison between faculty supervisor Professor Jason Higgins, the undergraduate editorial team, and article authors\nSupervised, mentored, and recruited a team of eight undergraduate and one graduate editorial assistant\n\nAdministrative Assistant to Two-Star Admiral U.S. Navy, NAVELSG, Williamsburg, VA | 2011–2015\n\nProvided administrative support to flag-level naval command; managed correspondence, scheduling, and operational documentation\nAwarded Junior Sailor of the Year (2012)\nHonorably discharged; eligible for federal employment veterans’ preference"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nEditorial Pedagogy & Student Mentorship Virginia Tech Undergraduate Historical Review, Blacksburg, VA | 2024–Present\n\nDirected the scholarly development of eight undergraduate and one graduate student editor in historical research methods, peer review standards, and academic writing\nDeveloped assessment materials and graded examinations; specializes in evaluation of written historical argument and analytical writing\n\nTeaching Intern Woodrow Wilson Middle School, Roanoke, VA | Jan–Apr 2024\n\nCompleted a six-month classroom teaching internship in secondary history education"
+  },
+  {
+    "objectID": "cv.html#conference-professional-service",
+    "href": "cv.html#conference-professional-service",
+    "title": "Curriculum Vitae",
+    "section": "Conference & Professional Service",
+    "text": "Conference & Professional Service\nLead Coordinator/President Bryan Bertoti Innovative Perspectives in History Conference, Virginia Tech | 2026\n\nServing as lead organizer for the annual graduate history conference at Virginia Tech\n\nConference Staff Bryan Bertoti Innovative Perspectives in History Conference, Virginia Tech | 2025\n\nContributed to behind-the-scenes planning, logistics, and execution of the annual graduate history conference"
+  },
+  {
+    "objectID": "cv.html#digital-projects-publications",
+    "href": "cv.html#digital-projects-publications",
+    "title": "Curriculum Vitae",
+    "section": "Digital Projects & Publications",
+    "text": "Digital Projects & Publications\nCold War Collateral Damage: A Navajo Chronicle (2024) Self-Published Digital History Site\n\nDeveloped a WordPress-based digital history site as an undergraduate independent study under Dr. Ed Gitre (Virginia Tech)\nDocuments and interprets Navajo histories of displacement and uranium contamination during the Cold War era using primary sources and interpretive narratives\n\nView Project"
+  },
+  {
+    "objectID": "cv.html#skills-languages",
+    "href": "cv.html#skills-languages",
+    "title": "Curriculum Vitae",
+    "section": "Skills & Languages",
+    "text": "Skills & Languages\nTechnical: R (in progress) · WordPress · ADA-compliant PDF production (PREP software) · Primary-source database construction and datafication\nLanguages: English (native) · Spanish (reading proficiency)"
+  },
+  {
+    "objectID": "cv.html#honors-awards",
+    "href": "cv.html#honors-awards",
+    "title": "Curriculum Vitae",
+    "section": "Honors & Awards",
+    "text": "Honors & Awards\n\nFunded Fellowship Position, Virginia Tech M.A. in History Program (2024–2026)\nGallagher Award, Virginia Tech Department of History (2023) — $10,000\nCurtis Award, Virginia Tech Department of History (2023)\nEnvironmental History Scholarship, Virginia Tech (2023)\nGraduated Magna Cum Laude, Virginia Tech (2024)\nGraduated Magna Cum Laude, Virginia Western Community College (2022)\nTau Sigma Honor Society Member\nJunior Sailor of the Year, U.S. Navy (2012)"
+  },
+  {
+    "objectID": "cv.html#military-service",
+    "href": "cv.html#military-service",
+    "title": "Curriculum Vitae",
+    "section": "Military Service",
+    "text": "Military Service\nPetty Officer / Administrative Assistant United States Navy (Active Duty) | 2011–2015\n\nAssigned as Administrative Assistant to Two-Star Admiral Command (NAVELSG, Williamsburg, VA)\nReceived Junior Sailor of the Year award (2012)\nHonorably discharged; eligible for federal veterans’ employment preference under VEOA"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David T. Watkeys",
+    "section": "",
+    "text": "David T. Watkeys is a Masters student in the Department of History at Virginia Tech. This site serves as a digital log of research, projects, and academic work completed during my time at VT."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "David T. Watkeys",
+    "section": "",
+    "text": "David T. Watkeys is a Masters student in the Department of History at Virginia Tech. This site serves as a digital log of research, projects, and academic work completed during my time at VT."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "David T. Watkeys",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy work centers on Indigenous histories of what is now the United States, the history of the War on Drugs, the cultural and historical value of entheogenic plants, and histories of resistance. I also boast award-winning research in Indigenous, legal and environmental history under the tutelage of Eddie Polanco and Ed Gitre.\nThis website was made with extensive assistance from Dr. Jessie Sadler and Madison Smith. I am eternally grateful to all of you."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Virginia Tech’s Masters of History program asks students to produce three substantial works: a historiography, a journal article, and a third project of choice. My portfolio uses these three forms to trace the legal, spiritual, and resistance histories of Peyote religions — bringing together my background in Indigenous history with new work in legal, drug, and resistance history."
+  },
+  {
+    "objectID": "research.html#the-masters-portfolio",
+    "href": "research.html#the-masters-portfolio",
+    "title": "Research",
+    "section": "",
+    "text": "Virginia Tech’s Masters of History program asks students to produce three substantial works: a historiography, a journal article, and a third project of choice. My portfolio uses these three forms to trace the legal, spiritual, and resistance histories of Peyote religions — bringing together my background in Indigenous history with new work in legal, drug, and resistance history."
+  },
+  {
+    "objectID": "research.html#journal-article-the-long-peyote-road-a-history-of-peyotism-and-indigenous-resistance",
+    "href": "research.html#journal-article-the-long-peyote-road-a-history-of-peyotism-and-indigenous-resistance",
+    "title": "Research",
+    "section": "Journal Article: The Long Peyote Road: A History of Peyotism and Indigenous Resistance",
+    "text": "Journal Article: The Long Peyote Road: A History of Peyotism and Indigenous Resistance\nMy primary research examines the history of Peyote religions among Indigenous peoples of North America — a history stretching back over six thousand years. Despite sustained colonial efforts to suppress Indigenous medicines and spiritual practices, the use of Peyote has persisted and spread through processes of cultural exchange, adaptation, and resistance.\nAt the intersection of Indigenous history, legal history, religious history, and the history of the War on Drugs, my work traces what I call a “repertoire of resistance” — a set of tools and strategies that Peyotist groups have developed and deployed to resist colonization. I argue that this repertoire is not fixed to any single community, but can be adapted and adopted by other groups facing colonial or governmental suppression."
+  },
+  {
+    "objectID": "research.html#history-tiktok-videos-of-resistance-history-in-virginia",
+    "href": "research.html#history-tiktok-videos-of-resistance-history-in-virginia",
+    "title": "Research",
+    "section": "History TikTok Videos of Resistance History in Virginia",
+    "text": "History TikTok Videos of Resistance History in Virginia\nThe other section of the portfolio is a public history outreach program to bring Indigenous history to high-school age students. These are deeply researched topics that are ajacent to historic moments that students likely are already familiar with. I bring students back to Jamestown, World War II, Integration (in the 1950s-1970s) and connect those histories to now. These videos bring the same tools from the journal article, but localize them here in Virginia. I hope that these videos can spark some interest in local, Indigenous, and resistance history."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nIndigenous histories of what is now the United States\nThe history of the War on Drugs\nEntheogenic plants and their cultural and spiritual histories\nHistories of resistance and anti-colonial struggle\nLegal history and environmental history\nResistance history and resistance methodologies - I am newer to this part."
+  },
+  {
+    "objectID": "research.html#explore-further",
+    "href": "research.html#explore-further",
+    "title": "Research",
+    "section": "Explore Further",
+    "text": "Explore Further\n\nRead my academic papers, including my Masters journal article, on the Papers page\nWatch my public history videos on the Public History Media page"
+  },
+  {
+    "objectID": "socialmedia.html",
+    "href": "socialmedia.html",
+    "title": "Public History Media",
+    "section": "",
+    "text": "YouTube Channel TikTok\nThese videos represent my work in public history — translating academic research into accessible content for broader audiences. Each video draws on primary sources and scholarly literature to tell stories of Indigenous resistance in Virginia that are often left out of mainstream historical narratives."
+  },
+  {
+    "objectID": "socialmedia.html#bacons-rebellion-cockacoeskes-brilliance-and-howard-zinn",
+    "href": "socialmedia.html#bacons-rebellion-cockacoeskes-brilliance-and-howard-zinn",
+    "title": "Public History Media",
+    "section": "Bacon’s Rebellion, Cockacoeske’s Brilliance, and Howard Zinn",
+    "text": "Bacon’s Rebellion, Cockacoeske’s Brilliance, and Howard Zinn\nThis video challenges Howard Zinn’s telling of Bacon’s Rebellion in A People’s History of the United States. While Zinn frames the rebellion as a moment of interracial class solidarity, he omits the parallel story of Cockacoeske, the Pamunkey queen who leveraged the same political moment to secure the Treaty of Middle Plantation — a document that would serve as the foundation for state and federal recognition of Virginia’s Indigenous peoples centuries later."
+  },
+  {
+    "objectID": "socialmedia.html#the-war-on-eugenics-indigenous-draft-resistance-in-world-war-ii",
+    "href": "socialmedia.html#the-war-on-eugenics-indigenous-draft-resistance-in-world-war-ii",
+    "title": "Public History Media",
+    "section": "The War on Eugenics: Indigenous Draft Resistance in World War II",
+    "text": "The War on Eugenics: Indigenous Draft Resistance in World War II\nVirginia’s 1924 Racial Integrity Act reclassified Indigenous people as Black, stripping them of their identity through the pseudoscience of eugenics. When World War II began, Native men were assigned to Black units despite having served in white units in WWI. This video traces the concerted resistance effort — fought in courtrooms and in public opinion — that ultimately won."
+  },
+  {
+    "objectID": "socialmedia.html#monacan-school-integration-in-amherst-county",
+    "href": "socialmedia.html#monacan-school-integration-in-amherst-county",
+    "title": "Public History Media",
+    "section": "Monacan School Integration in Amherst County",
+    "text": "Monacan School Integration in Amherst County\nWhile events like the Little Rock Nine are well known, Virginia’s Monacan people fought their own campaign to integrate historically white schools in Amherst County. This video tells that story — a local but deeply significant chapter in both Indigenous history and the broader history of civil rights in America."
+  },
+  {
+    "objectID": "socialmedia.html#the-long-road-to-recognition-of-the-pamunkey",
+    "href": "socialmedia.html#the-long-road-to-recognition-of-the-pamunkey",
+    "title": "Public History Media",
+    "section": "The Long Road to Recognition of the Pamunkey",
+    "text": "The Long Road to Recognition of the Pamunkey\nThis video connects the threads of resistance across these stories — from Cockacoeske’s treaty to the draft resistance to school integration — tracing how each struggle contributed to the modern fight for federal recognition of Virginia’s Indigenous peoples.\n\n\n\nThese videos are also available on my YouTube channel."
+  }
+]

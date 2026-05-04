@@ -1,0 +1,44 @@
+/* css styles */
+
+/* Typography */
+body {
+  font-family: Georgia, 'Times New Roman', serif;  /* classic academic serif font */
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', serif;  /* headings match body font */
+  letter-spacing: 0.02em;                          /* slight spacing for elegance */
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 2px solid #375a7f;               /* subtle accent line under navbar */
+}
+
+/* Links */
+a {
+  text-decoration: none;                           /* cleaner look without underlines */
+}
+
+a:hover {
+  text-decoration: underline;                      /* underline appears on hover */
+}
+
+/* Main content area */
+.content {
+  max-width: 900px;                                /* keeps text from stretching too wide */
+  margin: 0 auto;                                  /* centers the content */
+}
+
+/* CV and Resume sections */
+h2 {
+  border-bottom: 1px solid #375a7f;               /* subtle line under each section heading */
+  padding-bottom: 0.3em;                           /* small space between heading and line */
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #375a7f;                 /* colored left border on quotes */
+  padding-left: 1em;                               /* indent quote text */
+  font-style: italic;                              /* italicize quotes */
+}
