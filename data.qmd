@@ -1,0 +1,105 @@
+---
+title: "data"
+format: html
+---
+
+ 
+## Federally Recognized Indigenous Nations
+
+The following visualizations draw on U.S. Census Bureau data to map 
+federally recognized Indigenous nations across the United States. This 
+data is directly relevant to my research on Indigenous sovereignty and 
+the ongoing struggle for federal recognition. I don't want to give the impression that this is the totality of Indigenous land, this is only the top 50 nations by landmass. The intent was to show mapping from Digital History Methods, and to invite people to think about their own proximity to Indigenous people, who are often made to feel far away, and long ago. This map shows that there are Indigenous people dispersed all over the United States. and this is just the sample of the top 50 by sq mileage. Note the void of Ohio Tennessee, Kentucky, Pennsylvania etc. I do not know the whole story of how. But it is notable that these states have no federally recognized nations. I wonder if there is potential to advocate for recognition of groups within those states, although removal in the 19th century seems likely. 
+
+*Data source: U.S. Census Bureau via the tigris R package.*
+
+---
+
+## Interactive Map of Indigenous Nation Lands
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+# Load the packages we need
+library(tigris)    # connects to Census Bureau geographic data
+library(leaflet)   # builds interactive maps for the web
+library(dplyr)     # tools for manipulating and reshaping data
+
+# I am getting this weird percentile thing happening on the quarto preview. I am going to suppress in different spots to see if it goes away and works. 
+
+options(tigris_use_cache = TRUE) 
+
+# Download Indigenous nation boundary data from the Census Bureau
+# cb = TRUE means use a simplified/compressed version (loads faster)
+nations <- native_areas(cb = TRUE)
+
+# Build the interactive map
+leaflet(nations) |>                        # start a leaflet map using the nations data
+  addProviderTiles("CartoDB.Positron") |>  # add a clean minimal background map
+  addPolygons(                             # draw the nation boundary shapes
+    fillColor = "brown",                   # fill color inside the boundaries
+    fillOpacity = 0.5,                     # how transparent the fill is (0=invisible, 1=solid)
+    color = "blue",                        # color of the boundary lines
+    weight = 2,                            # thickness of the boundary lines
+    popup = ~NAME,                         # when clicked, show the nation name
+    highlight = highlightOptions(          # what happens when you hover over a nation
+      weight = 3,                          # make the border thicker on hover
+      fillOpacity = 0.8,                   # make the fill more solid on hover
+      bringToFront = TRUE                  # bring hovered shape in front of others
+    )
+  ) |>
+  addControl(                              # add a text label on the map
+    "<b>Federally Recognized Indigenous Nation Lands</b><br>Click any area for nation name",
+    position = "topright"                  # place the label in the top right corner
+  )
+```
+
+---
+
+## Fifty Largest Indigenous Nation Land Areas
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+# Load packages needed for this chunk
+library(tigris)    # connects to Census Bureau geographic data
+library(ggplot2)   # builds charts and graphs
+library(dplyr)     # tools for manipulating and reshaping data
+
+# options(tigris_use_cache = TRUE) 
+
+# Re-download the nations data for this chunk
+# Each chunk runs independently so need the data here too 
+nations <- native_areas(cb = TRUE)
+
+# Prepare the data for the bar chart
+nations_df <- nations |>                   # start with the nations data
+  as.data.frame() |>                       # convert from geographic format to a plain table
+  mutate(acres = ALAND / 4047) |>          # create new column converting square meters to acres
+  arrange(desc(acres)) |>                  # sort from largest to smallest by acreage
+  slice(1:50)                              # keep only the top 50 rows approx 10% of nations
+
+# Build the bar chart
+ggplot(nations_df,                         # tell ggplot which dataset to use
+  aes(x = reorder(NAME, acres),            # x axis = nation names ordered by acreage
+      y = acres / 1000000)) +              # y axis = acreage divided by 1 million for readability
+  geom_col(fill = "red",                   # draw bars filled in red
+           alpha = 0.85) +                 # slight transparency on the bars
+  coord_flip() +                           # flip so nation names run horizontally
+  labs(                                    # set all the text labels
+    title = "Fifty Largest Federally Recognized Indigenous Nation Land Areas",
+    subtitle = "U.S. Census Bureau data",
+    x = NULL,                              # no label needed on x axis
+    y = "Land Area (millions of acres)",
+    caption = "Source: U.S. Census Bureau, tigris R package"
+  ) +
+  theme_minimal() +                        # visual style
+  theme(
+    plot.title = element_text(face = "bold"),  # make the title bold
+    axis.text.y = element_text(size = 8)       # make nation name text smaller so it fits
+  )
+```

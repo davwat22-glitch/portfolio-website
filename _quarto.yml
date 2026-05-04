@@ -14,6 +14,9 @@ website:
       - href: papers.qmd
         text: Papers
         
+      - href: data.qmd
+        text: Data
+        
       - href: socialmedia.qmd
         text: Public History Media
         

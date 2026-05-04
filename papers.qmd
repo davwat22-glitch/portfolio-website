@@ -22,8 +22,6 @@ of colonization.
 
 [Read Paper](papers/journal_article_the_long_peyote_road_website.pdf){target="_blank"}
 
-#I got it to work finally!!!!
-
 ---
 
 ## Cold War Collateral Damage: A Navajo Chronicle (2024)
@@ -51,5 +49,3 @@ twenty-first century, the paper argues that federal recognition represents
 not just a bureaucratic designation but an act of rightful historical correction.
 
 [Read Paper](papers/wrongful_erasure_and_rightful_recognition_website.pdf){target="_blank"}
-
- #it works! committing!

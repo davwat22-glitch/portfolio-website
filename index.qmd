@@ -15,7 +15,7 @@ about:
       href: mailto:davwat22@vt.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/david-watkeys
+      href: https://www.linkedin.com/in/david-watkeys-0a3b85335/ 
     - icon: github
       text: GitHub
       href: https://github.com/davwat22-glitch

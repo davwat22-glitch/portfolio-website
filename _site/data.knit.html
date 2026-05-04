@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Papers – David T. Watkeys</title>
+<title>data – David T. Watkeys</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -101,12 +101,17 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./papers.html" aria-current="page"> 
+    <a class="nav-link" href="./papers.html"> 
 <span class="menu-text">Papers</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./data.html"> 
-<span class="menu-text">Data</span></a>
+<span class="menu-text">data</span></a>
+  </li>  
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Data</span>
+    </span>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./socialmedia.html"> 
@@ -136,9 +141,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-long-peyote-road-2025-2026" id="toc-the-long-peyote-road-2025-2026" class="nav-link active" data-scroll-target="#the-long-peyote-road-2025-2026">The Long Peyote Road (2025-2026)</a></li>
-  <li><a href="#cold-war-collateral-damage-a-navajo-chronicle-2024" id="toc-cold-war-collateral-damage-a-navajo-chronicle-2024" class="nav-link" data-scroll-target="#cold-war-collateral-damage-a-navajo-chronicle-2024">Cold War Collateral Damage: A Navajo Chronicle (2024)</a></li>
-  <li><a href="#wrongful-erasure-and-rightful-recognition-2023" id="toc-wrongful-erasure-and-rightful-recognition-2023" class="nav-link" data-scroll-target="#wrongful-erasure-and-rightful-recognition-2023">Wrongful Erasure and Rightful Recognition (2023)</a></li>
+  <li><a href="#federally-recognized-indigenous-nations" id="toc-federally-recognized-indigenous-nations" class="nav-link active" data-scroll-target="#federally-recognized-indigenous-nations">Federally Recognized Indigenous Nations</a></li>
+  <li><a href="#interactive-map-of-indigenous-nation-lands" id="toc-interactive-map-of-indigenous-nation-lands" class="nav-link" data-scroll-target="#interactive-map-of-indigenous-nation-lands">Interactive Map of Indigenous Nation Lands</a></li>
   </ul>
 </nav>
     </div>
@@ -147,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Papers</h1>
+<h1 class="title">data</h1>
 </div>
 
 
@@ -164,32 +168,37 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This page collects my scholarly writing from undergraduate through my Masters program at Virginia Tech. My work spans Indigenous history, legal history, and digital history — with new work produced every year since 2023.</p>
-<hr>
-<section id="the-long-peyote-road-2025-2026" class="level2">
-<h2 class="anchored" data-anchor-id="the-long-peyote-road-2025-2026">The Long Peyote Road (2025-2026)</h2>
-<p><em>Masters Journal Article — Virginia Tech Department of History</em></p>
-<p>My Masters journal article traces the six-thousand-year history of Peyote religions among Indigenous peoples of North America, examining the tension between colonial suppression and Indigenous resistance. The article develops the concept of a <strong>“repertoire of resistance”</strong> — a set of strategies and tools that Peyotist communities have used to survive and adapt across centuries of colonization.</p>
-<p><a href="papers/journal_article_the_long_peyote_road_website.pdf" target="_blank">Read Paper</a></p>
-<p>#I got it to work finally!!!!</p>
+<p>#notes - Of everything in this project I found the data visualization and mapping were the thing that spooked me the most. I snooped around the BIA website and found their data bases. I found maps and tables that looked like I could build them into a map here in R. The problem is that I couldn’t get the data to download. I was really vexed. I did some more googling, couldn’t find a fix. I broke down and went to Claude. It directed me through a couple of different sites. None worked. After that, it suggested trying this:</p>
+<p>install.packages(“tigris”) # - data package that connects to US Census Bureau and its geo data. install.packages(“leaflet”) - # this is what it suggested using to make the map and it has the map data from the USGS - looks like it uses Java to run it, but somehow works with R - This is wizardy. install.packages(“dplyr”) - we already had this from class.</p>
+<section id="federally-recognized-indigenous-nations" class="level2">
+<h2 class="anchored" data-anchor-id="federally-recognized-indigenous-nations">Federally Recognized Indigenous Nations</h2>
+<p>The following visualizations draw on U.S. Census Bureau data to map federally recognized Indigenous nations across the United States. This data is directly relevant to my research on Indigenous sovereignty and the ongoing struggle for federal recognition.</p>
+<p><em>Data source: U.S. Census Bureau via the tigris R package.</em></p>
 <hr>
 </section>
-<section id="cold-war-collateral-damage-a-navajo-chronicle-2024" class="level2">
-<h2 class="anchored" data-anchor-id="cold-war-collateral-damage-a-navajo-chronicle-2024">Cold War Collateral Damage: A Navajo Chronicle (2024)</h2>
-<p><em>Undergraduate Digital History Project — Virginia Tech Department of History</em></p>
-<p>A digital history project examining the impact of Cold War policy on Navajo communities, combining prose, photography, and primary source links. Full migration to this site in progress.</p>
-<p><a href="https://watkeyswordpress.vt.domains/LandingZone/" target="_blank">View Original Site</a></p>
-<hr>
-</section>
-<section id="wrongful-erasure-and-rightful-recognition-2023" class="level2">
-<h2 class="anchored" data-anchor-id="wrongful-erasure-and-rightful-recognition-2023">Wrongful Erasure and Rightful Recognition (2023)</h2>
-<p><em>Undergraduate Research Paper — Virginia Tech Department of History</em></p>
-<p><strong>Winner of the 2023 Gallagher History Prize ($10,000)</strong></p>
-<p>This paper examines the long struggle of Virginia’s Native peoples for federal recognition — systematically denied through legal mechanisms designed to erase Indigenous identity. Tracing the political and legal battles of the twenty-first century, the paper argues that federal recognition represents not just a bureaucratic designation but an act of rightful historical correction.</p>
-<p><a href="papers/wrongful_erasure_and_rightful_recognition_website.pdf" target="_blank">Read Paper</a></p>
-<p>#it works! committing!</p>
+<section id="interactive-map-of-indigenous-nation-lands" class="level2">
+<h2 class="anchored" data-anchor-id="interactive-map-of-indigenous-nation-lands">Interactive Map of Indigenous Nation Lands</h2>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<p>```</p>
+<p>|<br>
+| | 0% |<br>
+|= | 2% |<br>
+|== | 3% |<br>
+|=== | 4% |<br>
+|==== | 5% |<br>
+|==== | 6% |<br>
+|===== | 7% |<br>
+|====== | 8% |<br>
+|====== | 9% |<br>
+|======= | 10% |<br>
+|======= | 11% |<br>
+|======== | 12% |<br>
+|========= | 12% |</p>
 
 
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

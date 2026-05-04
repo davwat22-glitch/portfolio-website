@@ -7,6 +7,13 @@ format: html
 title: "Public History Media"
 ---
 
+::: {.grid}
+::: {.g-col-12}
+[YouTube Channel](https://www.youtube.com/channel/UCMzfpqvrlj9KbQ5CfHGhs6w){.btn .btn-danger target="_blank"}
+[TikTok](https://www.tiktok.com/@davidwatkeys){.btn .btn-dark target="_blank"}
+:::
+:::
+
 These videos represent my work in public history — translating academic 
 research into accessible content for broader audiences. Each video draws 
 on primary sources and scholarly literature to tell stories of Indigenous 
